@@ -1,6 +1,6 @@
 {
   "name": "is-client",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "Check if process is running on the client",
   "main": "index.js",
   "scripts": {
