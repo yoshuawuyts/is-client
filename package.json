@@ -1,0 +1,24 @@
+{
+  "name": "is-client",
+  "version": "0.0.0",
+  "description": "Check if process is running on the client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yoshuawuyts/is-client.git"
+  },
+  "keywords": [
+    "client",
+    "process",
+    "check"
+  ],
+  "author": "Yoshua Wuyts <i@yoshuawuyts.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yoshuawuyts/is-client/issues"
+  },
+  "homepage": "https://github.com/yoshuawuyts/is-client"
+}
